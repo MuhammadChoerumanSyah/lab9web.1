@@ -6,22 +6,22 @@
 
 ## Langkah-langkah praktikum 8
 # 1. Buat file dengan nama header.php
-![img1](/lab9web.1/sslab9web/sslab9web1.png)
+![img1](/sslab9web/sslab9web1.png)
 
 # 2. Buat file dengan nama footer.php
-![img2](/lab9web.1/sslab9web/sslab9web2.png)
+![img2](/sslab9web/sslab9web2.png)
 
 # 3. Buat file dengan nama home.php
-![img3](/lab9web.1/sslab9web/sslab9web3.png)
+![img3](/sslab9web/sslab9web3.png)
 
 # 4 Buat file dengan nama about.php
-![img4](/lab9web.1/sslab9web/sslab9web4.png)
+![img4](/sslab9web/sslab9web4.png)
 
 # 5. Output
     * Halaman Home
-![img5](/lab9web.1/sslab9web/sslab9web5.png)
+![img5](/sslab9web/sslab9web5.png)
     * Halaman About
-![img6](/lab9web.1/sslab9web/sslab9web6.png)
+![img6](/sslab9web/sslab9web6.png)
 
 # Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
@@ -53,46 +53,46 @@ Lab9_php_database
 # Config
 Dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi
 - koneksi.php
-![img7](/lab9web.1/sslab9web/sslab9web20koneksi.png)
+![img7](/sslab9web/sslab9web20koneksi.png)
 
 - tambah.php
-![img8](/lab9web.1/sslab9web/sslab9web8config.png)
+![img8](/sslab9web/sslab9web8config.png)
 
 - ubah.php
-![img9](/lab9web.1/sslab9web/sslab9web9config.png)
-![img10](/lab9web.1/sslab9web/sslab9web10config.png)
+![img9](/sslab9web/sslab9web9config.png)
+![img10](/sslab9web/sslab9web10config.png))
 
 # hapus.php
-![img11](/lab9web.1/sslab9web/sslab9web11config.png)
+![img11](/sslab9web/sslab9web11config.png)
 
 ## Layouts
 Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
 - head-static.php
-![img12](/lab9web.1/sslab9web/sslab9web12layouts.png)
+![img12](/sslab9web/sslab9web12layouts.png))
 
 - header.php
-![img13](/lab9web.1/sslab9web/sslab9web13layouts.png)
+![img13](/sslab9web/sslab9web13layouts.png)
 
 - main.php
-![img14](/lab9web.1/sslab9web/sslab9web14layouts.png)
+![img14](/sslab9web/sslab9web14layouts.png)
 
 - footer.php
-![img15](/lab9web.1/sslab9web/sslab9web15layouts.png)
+![img15](/sslab9web/sslab9web15layouts.png)
 
 ## Static
 Untuk menyimpan file yang diperlukan seperti css, js, gambar
 
 - style.css
-![img16](/lab9web.1/sslab9web/sslab9web16static.png)
+![img16](/sslab9web/sslab9web16static.png)
 
 ## index.php, tambah.php, ubah.php
 File utama dan berfungsi sebagai wadah untuk memanggil sub-file di beberapa direktori
 - index.php
-![img17](/lab9web.1/sslab9web/sslab9web17.png)
+![img17](/sslab9web/sslab9web17.png)
 
 - tambah.php
-![img18](/lab9web.1/sslab9web/sslab9web18.png)
+![img18](/sslab9web/sslab9web18.png)
 
 - ubah.php
-![img2](/lab9web.1/sslab9web/sslab9web19.png)
+![img2](/sslab9web/sslab9web19.png)
 
